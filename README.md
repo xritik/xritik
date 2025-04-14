@@ -27,11 +27,12 @@
 
 <img align="left" alt="NodeJS" width="40px" src="https://cdn-icons-png.flaticon.com/256/5968/5968322.png" />
 <img align="left" alt="ReactJS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
+<img align="left" alt="ReactJS" width="40px" src="https://img.icons8.com/color/512/express-js.png" />
 <img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+<img align="left" alt="MongoDB" width="40px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
 <img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="MongoDB" width="40px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
 <br/>
 <br/>
 
