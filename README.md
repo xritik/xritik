@@ -1,5 +1,5 @@
 ## Hello and welcome 🙏  
-## 🇮🇳 Ritik Singh is who I go by 🐧☁️🐳🐍🧠💻  
+## 🇮🇳 Ritik Singh is who I go by ⚛️⚡️🌳🍃💻🐧☁️🐳🐍🧠
 ### Live Monitoring  
 ![Profile Views](https://komarev.com/ghpvc/?username=xritik)
 
@@ -11,10 +11,11 @@
 
 - 🔭 I’m currently working as a Full Stack Developer  
 - 🌱 I’m learning more about DevOps
-- 👯 I’m open to collaborating on Dockerized & Cloud-native apps  
+- 👯 I’m open to collaborating on MERN stack projects and beginner-friendly DevOps tasks
 - 💬 Ask me about Linux, AWS, Docker, Python, or anything Dev!  
-- 📫 Connect via Email: [tech.ritiksingh@gmail.com]  
-- ⚡ Fun fact: Code > Sleep | I break things to learn how to fix them
+- 📫 Connect via Email: [tech.ritiksingh@gmail.com]
+- 📞 WhatsApp Dial: +91-9569701683
+- ⚡ Fun fact: Code > Sleep | I talk to servers more than people | Life runs on `npm start`
 
 ### Connect with me  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xritik/)  
