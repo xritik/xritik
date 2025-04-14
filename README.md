@@ -18,9 +18,8 @@
 - ⚡ Fun fact: Code > Sleep | I talk to servers more than people | Life runs on `npm start`
 
 ### Connect with me  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xritik/)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xritik/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:tech.ritiksingh@gmail.com)
-
 <br />
 <hr />
 
@@ -44,12 +43,6 @@
 <br />
 <hr />
 
-### GitHub Stats
+![Your Contributions](https://github-readme-stats.vercel.app/api?username=xritik&show_icons=true&rank_icon=github&theme=radical&count_private=true)
+<img height="195.5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xritik&hide=html&hide_border=true&layout=donut&langs_count=7&icon_color=000&theme=radical" />
 
-<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=xritik&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" />
-<img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xritik&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=000&theme=graywhite" />
-<br />
-<br />
-<hr />
-
-![Your Contributions](https://github-readme-stats.vercel.app/api?username=xritik&show_icons=true&theme=radical&count_private=true)
