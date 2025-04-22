@@ -1,5 +1,5 @@
 ## Hello and welcome 🙏  
-## 🇮🇳 Ritik Singh is who I go by ⚛️⚡️🌳🍃💻🐧☁️🐳🐍🧠
+## Ritik Singh is who I go by ⚛️⚡️🌳🍃💻🐧☁️🐳🐍🧠
 ### Live Monitoring  
 ![Profile Views](https://komarev.com/ghpvc/?username=xritik)
 
